@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #111;
+}
+section {
+  height: 30vw;
+  width: 50vw;
+  border: 3px solid greenyellow;
+  position: relative;
+  margin: 5% auto;
+  padding: 5px;
+  background-color: rgb(122, 119, 119);
+}
+div {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  border-radius: 50%;
+  position: absolute;
+  animation: baeng 7s infinite;
+}
+@keyframes baeng {
+  0%,
+  100% {
+    background-color: red;
+    top: 0;
+    left: 0;
+  }
+
+  25% {
+    background-color: gold;
+    top: 0;
+    left: 92.5%;
+  }
+
+  50% {
+    background-color: green;
+    top: 87.5%;
+    left: 92.5%;
+  }
+
+  75% {
+    background-color: blue;
+    top: 87.5%;
+    left: 0;
+  }
+}
