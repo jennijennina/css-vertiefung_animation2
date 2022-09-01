@@ -31,6 +31,8 @@ Die Funktion @keyframes sieht ungefähr so aus:
     ....
   }
 }
+
+
 <img width="904" alt="Screenshot 2022-09-01 at 23 59 05" src="https://user-images.githubusercontent.com/110846379/188021666-ab5715fb-a6a9-4bbf-b590-585c4e4ddd8f.png">
 <img width="965" alt="Screenshot 2022-09-01 at 23 59 19" src="https://user-images.githubusercontent.com/110846379/188021672-dbd3eeb4-07e8-4170-a905-290972cdced2.png">
 <img width="993" alt="Screenshot 2022-09-01 at 23 58 51" src="https://user-images.githubusercontent.com/110846379/188021673-fa1b33fe-5f29-4172-9eec-d822c1d83c08.png">
