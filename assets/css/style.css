@@ -3,6 +3,19 @@
   padding: 0;
   background-color: #111;
 }
+@font-face {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Lato"), local("Lato-Regular"),
+    url(../fonts/Lato/Lato-Regular.ttf) format("truetype");
+}
+h1 {
+  color: cornflowerblue;
+  text-align: center;
+  margin-top: 50px;
+  font-family: Lato;
+}
 section {
   height: 30vw;
   width: 50vw;
